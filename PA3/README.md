@@ -16,6 +16,8 @@ LM |                          | LM
           LM          LM
 ```
 
+Drive through the environment in a square path and in an 8-point octagon trajectory.
+
 ## Demo
-https://youtube.com/shorts/1ZZ9lWM6Y4g?si=1LMsSj_iFafo1PI5 \
-https://youtu.be/qzQ_CbZuL54?si=Qf66jCWT8kVaIdi5
+[sqaure](https://youtube.com/shorts/1ZZ9lWM6Y4g?si=1LMsSj_iFafo1PI5)\
+[Octagon](https://youtu.be/qzQ_CbZuL54?si=Qf66jCWT8kVaIdi5)
