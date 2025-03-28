@@ -21,5 +21,5 @@ LM |                          | LM
 Design two path planning algorithms. One for maximum safety and one for minimum time/distance.
 
 ## Demo
-[Maximum Safety](<https://youtu.be/PSLQOjT_pBA?si=hTuArRlGSQmxFY1Y>)
+[Maximum Safety](<https://youtu.be/PSLQOjT_pBA?si=hTuArRlGSQmxFY1Y>)\
 [Minimum Time/Distance](<https://youtube.com/shorts/TrofYOJ6zds?si=OjLphPtMuRDcMuYL>)
