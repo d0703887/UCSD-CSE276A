@@ -1,2 +1,2 @@
 # UCSD CSE 276A Introduction to Robotics
-This is the Programming Assignment (PA) repos for CSE276A. The PAs are designed as a sequence of milestones that lead to final goal which was designing a "roomba" like robot system. The robot should be able to cover certain percentage of an unknown area using real-time path planning.
+This repository contains the Programming Assignments (PAs) for CSE 276A at UCSD. The assignments follow a series of milestones culmulating in the design of a "Roomba" like robotic system. The goal is to develop a robot capable of covering a significant percentage of an unknown area using real-time planning.
